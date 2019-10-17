@@ -12,16 +12,16 @@ Beginner:
 
 Intermediate:
 
-1.Check whether a substring is present in a string or not.
-2.Binary Search
-3.Bubble Sort
-4.Insertion Sort
-5.Print all the Subsequence of a String
+1.Check whether a substring is present in a string or not. \
+2.Binary Search \ 
+3.Bubble Sort \
+4.Insertion Sort \ 
+5.Print all the Subsequence of a String \
 
 Advanced:
 
-1.N-Queen/N-Knight
-2.TREE Left/Right/Bottom View
-3.Sudoku Solver
-4.Breath First Search
-5.Depth First Search
+1.N-Queen/N-Knight \
+2.TREE Left/Right/Bottom View \ 
+3.Sudoku Solver \ 
+4.Breath First Search \ 
+5.Depth First Search \
